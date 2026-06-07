@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+fitness.db
+fitness.db-shm
+fitness.db-wal
+.DS_Store
+bin/cloudflared
+mobile_url.txt
